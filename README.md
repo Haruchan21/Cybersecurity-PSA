@@ -1,5 +1,5 @@
 # Cybersecurity PSA: Avoid Job Scams
-<img src="https://github.com/Haruchan21/Cybersecurity-PSA/blob/f4478ee5088fd4ef83d65ff82e5b4a5217c4fda9/My%20project-1.jpeg" width=58% height=58%>
+<img src="https://github.com/Haruchan21/Cybersecurity-PSA/blob/main/My%20project-1%20(1).png" width=58% height=58%>
 <br />
 <br />
 <br />
